@@ -88,7 +88,7 @@ You should see 100% test coverage and all quality checks passing.
 
 ### Maintenance
 
-- `composer update:requirements` - Updates all PHP and Bun dependencies to latest versions
+- `composer update:requirements` - Updates all PHP and NPM dependencies to latest versions
 
 ## License
 
