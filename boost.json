@@ -1,9 +1,11 @@
 {
     "agents": [
-        "junie",
         "amp",
         "copilot",
-        "claude_code"
+        "junie",
+        "opencode",
+        "claude_code",
+        "codex"
     ],
     "cloud": false,
     "guidelines": true,
